@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 type MovieCardProps = {
     title: string;
     posterImage: string;
